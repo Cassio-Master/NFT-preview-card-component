@@ -1,0 +1,58 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: hsl(217, 54%, 11%);
+    height: 200px;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+.cube-image{
+    width: 280px;
+    height: 260px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    border-radius: 10px;
+}
+
+.parent-div{
+width: 320px;
+    background: hsl(216, 50%, 16%);
+    height: 550px;
+    border-radius: 25px;
+    position: relative;
+    border: solid hsl(215, 55%, 10%) 15px;
+ 
+}
+
+.parent-div{
+    border-bottom: solid hsl(215, 55%, 10%) 40px;
+}
+
+.a{
+    display: inline-block;
+    position: relative;
+    bottom: 5px;
+  
+}
+
+.title{
+    position: relative;
+    left: 20px;
+
+}
+
+.paragraph-2{
+    position: relative;
+    left: 20px;
+    color: hsl(215, 51%, 70%);
+}
+
+
+p2{
+    position: relative;
+    left: 20px;
+}
