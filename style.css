@@ -28,9 +28,6 @@ width: 320px;
  
 }
 
-.parent-div{
-    border-bottom: solid hsl(215, 55%, 10%) 40px;
-}
 
 .a{
     display: inline-block;
